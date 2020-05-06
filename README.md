@@ -30,14 +30,14 @@ Gerenciamento Loja
 <br>
 
 <h1>
-    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/01.jpeg" height="400" />  
-    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/02.jpeg" height="400" />
-    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/03.jpeg" height="400" />
-    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/04.jpeg" height="400" />
-    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/05.jpeg" height="400" />
-    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/06.jpeg" height="400" />
-    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/07.jpeg" height="400" />
-    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/08.jpeg" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/01.png" height="400" />  
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/02.png" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/03.png" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/04.png" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/05.png" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/06.png" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/07.png" height="400" />
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/gerenciamento_loja/master/appPhoto/08.png" height="400" />
     
 
 <h1>
