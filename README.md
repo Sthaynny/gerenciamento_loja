@@ -54,7 +54,7 @@ Tecnologias ultilizadas no projeto:
 
 ## 💻 Projeto
 
-Esse projeto tem como objetivo o aprendizado da framework flutter para a utilização com ituito de um gerenciamento de uma loja virtual em aplicações reais.
+Esse projeto tem como objetivo o aprendizado da framework flutter para a utilização com intuito de um gerenciamento para uma loja virtual.
 
 
 ## 🤔 Como contribuir
